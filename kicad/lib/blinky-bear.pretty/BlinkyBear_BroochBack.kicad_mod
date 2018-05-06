@@ -1,0 +1,9 @@
+(module BlinkyBear_BroochBack (layer F.Cu) (tedit 5AEB6080)
+  (fp_text reference REF** (at 0 3.429) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BlinkyBear_BroochBack (at 0 -4.445) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 16 5) (layers F.Cu F.Paste F.Mask))
+)
