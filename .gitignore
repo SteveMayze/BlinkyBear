@@ -25,3 +25,10 @@ _autosave-*
 *.xml
 *.csv
 
+**/archive
+
+**/gerbers
+**/Gerbers
+
+
+
